@@ -1,10 +1,10 @@
-# **DReaM-ALD** — **D**iffusion-**Rea**ction **M**odel for **A**tomic **L**ayer **D**eposition
+# DReaM-ALD — Diffusion–Reaction Model for Atomic Layer Deposition
 
 ## Project description
 
 DReaM-ALD is a MATLAB implementation of a diffusion–reaction model for simulating the conformality of atomic layer deposition in high-aspect-ratio microchannels.
 
-This project implements a diffusion–reaction model developed by Ylilammi et al. (J. Appl. Phys. **123**, 205301 (2018), DOI: [10.1063/1.5028178](https://doi.org/10.1063/1.5028178)) in MATLAB. The model was developed to simulate the conformality of atomic layer deposited films in high-aspect-ratio microchannels. The output of the model, thickness profiles, show how the film thickness evolves with penetration into the microchannel. This diffusion–reaction model uses an analytical approximation of the reactant partial pressure in combination with the Langmuir model of adsorption. The scripts were written by Emma Verkama during her summer student employment in 2019 by request of Prof. Riikka Puurunen. Jihong Yim unified the variable names used in the scripts with the symbols adopted in Yim et al. (Phys. Chem. Chem. Phys. 24, 8645-8660 (2022), DOI: [10.1039/D1CP04758B](https://doi.org/10.1039/D1CP04758B)). The publication of the scripts was handled by Jänis Järvilehto. 
+This project implements a diffusion–reaction model developed by Ylilammi et al. (J. Appl. Phys. **123**, 205301 (2018), DOI: [10.1063/1.5028178](https://doi.org/10.1063/1.5028178)) in MATLAB. The model was developed to simulate the conformality of atomic layer deposited films in high-aspect-ratio microchannels. The output of the model, thickness profiles, show how the film thickness evolves with penetration into the microchannel. This diffusion–reaction model uses an analytical approximation of the reactant partial pressure in combination with the Langmuir model of adsorption. The scripts were written by Emma Verkama during her summer student employment in 2019 by request of Prof. Riikka Puurunen. Jihong Yim unified the variable names used in the scripts with the symbols adopted in Yim et al. (Phys. Chem. Chem. Phys. **24**, 8645-8660 (2022), DOI: [10.1039/D1CP04758B](https://doi.org/10.1039/D1CP04758B)). The publication of the scripts was handled by Jänis Järvilehto. 
 
 ## File overview
 
