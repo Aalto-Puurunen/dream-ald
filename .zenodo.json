@@ -1,0 +1,44 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0002-2726-9611",
+            "affiliation": "Aalto University",
+            "name": "Verkama, Emma"
+        },
+        {
+            "orcid": "0000-0001-8722-4864",
+            "affiliation": "Aalto University",
+            "name": "Puurunen, Riikka L."
+        }
+    ],
+
+    "license": "MIT",
+
+    "title": "DReaM-ALD – Diffusion-Reaction Model for Atomic Layer Deposition",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1063/1.5028178",
+            "relation": "continues",
+            "resource_type": "publication-article"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.1039/D1CP04758B",
+            "relation": "isDescribedBy",
+            "resource_type": "publication-article"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.1039/d0cp03358h",
+            "relation": "isSupplementTo",
+            "resource_type": "publication-article"
+        }
+    ],
+
+    "keywords": ["atomic layer deposition", "diffusion–reaction model", "conformality", "saturation profile", "thickness profile"]
+    
+}
+
+
