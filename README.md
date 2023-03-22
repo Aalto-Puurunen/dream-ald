@@ -1,5 +1,7 @@
 # DReaM-ALD — Diffusion–Reaction Model for Atomic Layer Deposition
 
+<a href="https://zenodo.org/badge/latestdoi/616902762"><img src="https://zenodo.org/badge/616902762.svg" alt="DOI"></a>
+
 <a href="https://github.com/Aalto-Puurunen/dream-ald#copyright-and-license" alt="MIT License">
         <img src="https://img.shields.io/badge/license-MIT-green" /></a>
 
