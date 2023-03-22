@@ -1,0 +1,51 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  DReaM-ALD – Diffusion–Reaction Model for Atomic Layer
+  Deposition
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - family-names: Verkama
+    given-names: Emma
+    orcid: 'https://orcid.org/0000-0002-2726-9611'
+  - family-names: Puurunen
+    given-names: Riikka L.
+    orcid: 'https://orcid.org/0000-0001-8722-4864'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7759194
+    description: The concept DOI of the work.
+  - type: doi
+    value: 10.5281/zenodo.7759195
+    description: The versioned DOI for version 1.0.0 of the work.
+repository-code: 'https://github.com/Aalto-Puurunen/dream-ald'
+abstract: >-
+  DReaM-ALD is a MATLAB implementation of a
+  diffusion–reaction model for simulating the conformality
+  of atomic layer deposition in high-aspect-ratio
+  microchannels.
+
+
+  This project implements a diffusion–reaction model
+  developed by Ylilammi et al. (J. Appl. Phys. 123, 205301
+  (2018), DOI: 10.1063/1.5028178) in MATLAB. The model was
+  developed to simulate the conformality of atomic layer
+  deposited films in high-aspect-ratio microchannels. The
+  output of the model, thickness profiles, show how the film
+  thickness evolves with penetration into the microchannel.
+  This diffusion–reaction model uses an analytical
+  approximation of the reactant partial pressure in
+  combination with the Langmuir model of adsorption. The
+  scripts were written by Emma Verkama during her summer
+  student employment in 2019 by request of Prof. Riikka
+  Puurunen. Jihong Yim unified the variable names used in
+  the scripts with the symbols adopted in Yim et al. (Phys.
+  Chem. Chem. Phys. 24, 8645-8660 (2022), DOI:
+  10.1039/D1CP04758B). The publication of the scripts was
+  handled by Jänis Järvilehto. 
+license: MIT
+version: 1.0.0
+date-released: '2023-03-22'
