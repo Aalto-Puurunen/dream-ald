@@ -1,5 +1,14 @@
 # DReaM-ALD — Diffusion–Reaction Model for Atomic Layer Deposition
 
+<a href="https://github.com/Aalto-Puurunen/dream-ald/edit/main/README.md#copyright-and-license" alt="MIT License">
+        <img src="https://img.shields.io/badge/license-MIT-green" /></a>
+
+<a href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fgithub.com%2FAalto-Puurunen%2Fdream-ald" alt="Tweet about DReaM-ALD">
+        <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FAalto-Puurunen%2Fdream-ald" /></a>
+
+<a href="https://twitter.com/rlpuu" alt="Follow rlpuu on Twitter">
+        <img src="https://img.shields.io/twitter/follow/rlpuu?style=social" /></a>
+
 ## Project description
 
 DReaM-ALD is a MATLAB implementation of a diffusion–reaction model for simulating the conformality of atomic layer deposition in high-aspect-ratio microchannels.
