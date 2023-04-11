@@ -47,7 +47,7 @@ Jihong Yim, Oili M E Ylivaara, Markku Ylilammi, Virpi Korpelainen, Eero Haimi, E
 
 Please cite as:
 
-E. Verkama and R. L. Puurunen, **DReaM-ALD – Diffusion-Reaction Model for Atomic Layer Deposition**, (2023), *Github repository*, https://github.com/Aalto-Puurunen/dream-ald. 
+E. Verkama and R. L. Puurunen, **DReaM-ALD – Diffusion-Reaction Model for Atomic Layer Deposition**, (2023), *Github repository*, https://github.com/Aalto-Puurunen/dream-ald. [https://doi.org/10.5281/zenodo.7759195](https://doi.org/10.5281/zenodo.7759195).
 
 And the original description of the model:
 
